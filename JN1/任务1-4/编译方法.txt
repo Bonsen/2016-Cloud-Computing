@@ -1,0 +1,2 @@
+到src目录下执行如下命令:
+javac /com/hadoop/log/count/Main.java -d .
